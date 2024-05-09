@@ -511,7 +511,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## Output:
-![image](https://github.com/malligesh309/Scientific_Git/assets/140491043/1c557a9e-86b9-4a1b-be7d-bb502f1b5502)
+![image](https://github.com/malligesh309/Scientific_Git/assets/140491043/8731a7a0-b6bb-4769-a4be-2a4c68000484)
 
 
 ## Result:
